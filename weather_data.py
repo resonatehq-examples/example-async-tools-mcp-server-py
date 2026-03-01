@@ -5,8 +5,13 @@ import calendar
 import json
 
 
-mcp = FastMCP("timer")
-resonate = Resonate.remote()
+mcp = FastMCP("weather_data")
+resonate = Resonate.remote(
+    host="https://resonate-connect.cloud",
+    store_port=8001,
+    message_source_port=8002,
+    group="weather_data-mcp",
+)
 
 
 @resonate.register
