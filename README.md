@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Async MCP Tools Server — Resonate example" />
+</p>
+
 # Weather data AI Agent tool | Resonate example application
 
 This example application showcases Resonate's ability to convert synchronous MCP Server tools into Durable Asynchronous tools.
