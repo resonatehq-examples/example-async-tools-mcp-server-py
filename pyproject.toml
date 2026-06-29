@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastmcp>=2.8.0",
-    "resonate-sdk>=0.6.7",
+    "requests>=2.34.2",
+    "resonate-sdk>=0.7.0",
 ]
