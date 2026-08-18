@@ -817,15 +817,15 @@ wheels = [
 
 [[package]]
 name = "resonate-sdk"
-version = "0.7.0"
+version = "0.7.4"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiohttp" },
     { name = "msgspec" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/fc/90/e8927688619b92d23ed3f3c2babfe54b3d2ce0df3eb8f45ca22ddb181523/resonate_sdk-0.7.0.tar.gz", hash = "sha256:ab8ed8e9994d32ab71bedf652bd16657fb2b70bd44349b342835ef9f2799f14a", size = 69909, upload-time = "2026-06-16T19:14:09.453Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/d1/11/1c08298fcab151535bf5377070a4ea1a77ebe360a444e328e6fdcdfb4ef7/resonate_sdk-0.7.4.tar.gz", hash = "sha256:2674eed552787b0c89b3cf78a6398bee1666b8cbdc423870d085963d02ce5f8e", size = 89218, upload-time = "2026-07-15T21:12:35.723Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/70/6f/4e05317698c8b029233882b2c4d9b084532bd1fa7446d612855c895042ef/resonate_sdk-0.7.0-py3-none-any.whl", hash = "sha256:1a3349ea7d59421ceaa20b873d342c3dbc26bf7247b255092bd953cab4cecebd", size = 80691, upload-time = "2026-06-16T19:14:08.155Z" },
+    { url = "https://files.pythonhosted.org/packages/4f/fa/ce1d7004c6937eb1a1777c4599c0f0919617463fb5f7df3612fe7334f6e3/resonate_sdk-0.7.4-py3-none-any.whl", hash = "sha256:a343324ddb719856665d9c605052b902645514c38390a888c705beac65162e19", size = 105175, upload-time = "2026-07-15T21:12:34.074Z" },
 ]
 
 [[package]]
